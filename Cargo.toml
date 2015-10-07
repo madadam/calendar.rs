@@ -1,0 +1,9 @@
+[package]
+name = "calendar"
+version = "0.1.0"
+authors = ["Adam Cigánek <adam.ciganek@gmail.com>"]
+
+[dependencies]
+chrono = "0.2"
+docopt = "0.6"
+rustc-serialize = "0.3"
